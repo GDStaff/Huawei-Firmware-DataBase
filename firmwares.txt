@@ -5,7 +5,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
 <head>
 <meta http-equiv="refresh" content="0">
-<title>pro-teammt.ru | 520: Web server is returning an unknown error</title>
+<title>pro-teammt.ru | 524: A timeout occurred</title>
 <meta charset="UTF-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
@@ -21,10 +21,10 @@
 <div class="cf-wrapper cf-error-overview">
 <h1>
 <span class="cf-error-type">Error</span>
-<span class="cf-error-code">520</span>
-<small class="heading-ray-id">Ray ID: 4640951da0a68af8 &bull; 2018-10-03 15:54:02 UTC</small>
+<span class="cf-error-code">524</span>
+<small class="heading-ray-id">Ray ID: 4648d7d9c4e38267 &bull; 2018-10-04 15:58:55 UTC</small>
 </h1>
-<h2 class="cf-subheadline">Web server is returning an unknown error</h2>
+<h2 class="cf-subheadline">A timeout occurred</h2>
 </div>
 <div class="cf-section cf-highlight cf-status-display">
 <div class="cf-wrapper">
@@ -63,20 +63,20 @@
 <div class="cf-columns two">
 <div class="cf-column">
 <h2>What happened?</h2>
-<p>There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.</p>
+<p>The origin web server timed out responding to this request.</p>
 </div>
 <div class="cf-column">
 <h2>What can I do?</h2>
-<h5>If you are a visitor of this website:</h5>
+<h5>If you're a visitor of this website:</h5>
 <p>Please try again in a few minutes.</p>
-<h5>If you are the owner of this website:</h5>
-<p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team. Please include the Ray ID (which is at the bottom of this error page).</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171936-Error-520">Additional troubleshooting resources</a>.</p>
+<h5>If you're the owner of this website:</h5>
+<p><span>The connection to the origin web server was made, but the origin web server timed out before responding. The likely cause is an overloaded background task, database or application, stressing the resources on your web server. To resolve, please work with your hosting provider or web development team to free up resources for your database or overloaded application.</span> <a href="https://support.cloudflare.com/hc/en-us/articles/200171926-Error-524">Additional troubleshooting information here.</a></p>
 </div>
 </div>
 </div>
 <div class="cf-error-footer cf-wrapper">
 <p>
-<span class="cf-footer-item">Cloudflare Ray ID: <strong>4640951da0a68af8</strong></span>
+<span class="cf-footer-item">Cloudflare Ray ID: <strong>4648d7d9c4e38267</strong></span>
 <span class="cf-footer-separator">&bull;</span>
 <span class="cf-footer-item"><span>Your IP</span>: 31.41.48.225</span>
 <span class="cf-footer-separator">&bull;</span>
